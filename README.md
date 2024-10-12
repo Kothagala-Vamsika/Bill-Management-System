@@ -10,6 +10,7 @@ Calculates and displays the total bill dynamically.
 Includes a reset button to clear input fields.
 
 Requirements
+
 Python 3.x
 Tkinter (usually included with Python installations)
 Usage
